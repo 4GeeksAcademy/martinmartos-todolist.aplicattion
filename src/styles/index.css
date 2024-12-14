@@ -1,4 +1,23 @@
+body{
+    margin-top: 100px;
+}
+ul{
+    padding: 0;
+    margin-bottom: 0;
+}
+ul li {
+    border: 1px solid gray;
+    list-style: none;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+}
+input{
+    border: none;
+    width: 100%;
 
+}
 /* 
 
     You can write your own styles here...
